@@ -13,7 +13,7 @@
         >
           {{ config.author }}
         </a></span
-      >&nbsp;&amp;
+      >&nbsp;
     </div>
     <div class="lrc" v-show="store.playerState">
       <music-one theme="filled" size="18" fill="#efefef" />
