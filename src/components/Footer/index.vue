@@ -18,7 +18,7 @@
     <div class="lrc" v-show="store.playerState">
       <music-one theme="filled" size="18" fill="#efefef" />
       <span class="lrc-text">
-        {{ store.getPlayerLrc ? store.getPlayerLrc : "这句没有歌词" }}
+        {{ store.getPlayerLrc ? store.getPlayerLrc : "这句没有歌词哦" }}
       </span>
       <music-one theme="filled" size="18" fill="#efefef" />
     </div>
