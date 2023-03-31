@@ -46,27 +46,27 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://blog.imsyy.top/",
+    link: "https://iocky.com/",
   },
   {
     icon: Cloud,
     name: "网盘",
-    link: "https://pan.imsyy.top/",
+    link: "https://cloud.iocky.com/",
   },
   {
     icon: CompactDisc,
-    name: "音乐",
-    link: "https://music.imsyy.top/",
+    name: "B站录播姬",
+    link: "https://rec.iocky.com/",
   },
   {
     icon: Compass,
-    name: "起始页",
-    link: "https://nav.imsyy.top/",
+    name: "FooDelivery 展示页",
+    link: "https://iocky.com/",
   },
   {
     icon: Book,
-    name: "网址集",
-    link: "https://web.imsyy.top/",
+    name: "漫画站",
+    link: "https://manga.iocky.com/",
   },
   {
     icon: Fire,
