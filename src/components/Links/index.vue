@@ -60,7 +60,7 @@ let linksData = [
   },
   {
     icon: Compass,
-    name: "FooDelivery 展示页",
+    name: "FooDelivery",
     link: "https://iocky.com/",
   },
   {
